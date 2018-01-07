@@ -1,5 +1,5 @@
 package test;
 
-public class 场地和 {
+public class test{
 
 }
